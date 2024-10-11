@@ -1,11 +1,7 @@
 import { renderizarDivs } from "./utility/utils"
-<<<<<<< HEAD
-import { profissionais, artigos, materiais, topicosPrincipais, itemTopico } from "./utility/data"
-import { carroselEquipe, cardArtigo, cardTopicosPrincipais, cardItemTopico } from "./utility/templates"
-=======
-import { profissionais, artigos, materiais, cardsColorir, cardsMaterias } from "./utility/data"
-import { carroselEquipe, cardArtigo, cards} from "./utility/templates"
->>>>>>> main
+
+import { profissionais, artigos, materiais, topicosPrincipais, itemTopico, cardsColorir, cardsMaterias } from "./utility/data"
+import { carroselEquipe, cardArtigo, cardTopicosPrincipais, cardItemTopico, cards } from "./utility/templates"
 
 document.addEventListener("DOMContentLoaded", function() {
 const root = document.querySelector("#app")
