@@ -62,12 +62,7 @@ const topicosPrincipais = [
         quantidadePessoas: "25",
         quantidadeTempo: "3 meses",
     },
-    {
-        titulo: "Squad 3, melhor de todos",
-        conteudo: "Só queria deixar claro que o squad 3 é o melhor squad, obrigado pela oportunidade, eject!",
-        quantidadePessoas: "1",
-        quantidadeTempo: "1 minuto",
-    }
+
 ]
 
 const itemTopico = [
